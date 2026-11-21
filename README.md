@@ -80,7 +80,7 @@ notebooks/analysis.ipynb            pandas: regression, chi-square test, text ch
 ## Run it yourself
 
 ```bash
-git clone https://github.com/<your-username>/olist-customer-satisfaction.git
+git clone https://github.com/alcarrui-spec/olist-customer-satisfaction.git
 cd olist-customer-satisfaction
 pip install -r requirements.txt
 ```
